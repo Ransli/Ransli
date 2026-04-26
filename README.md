@@ -71,8 +71,7 @@
     <td>
       <strong>Finance Core</strong> — Plataforma SaaS multi-tenant para gestión de préstamos en la República Dominicana.<br/>
       <sub><code>React</code> · <code>Node.js</code> · <code>MariaDB</code> · <code>Nginx</code> · <code>PM2</code> · <code>VPS</code></sub><br/><br/>
-      <a href="https://financecore.com.do"><img src="https://img.shields.io/badge/🌐_financecore.com.do-1E3A8A?style=flat-square"/></a>
-      <a href="https://financecore.cloud"><img src="https://img.shields.io/badge/☁️_financecore.cloud-059669?style=flat-square"/></a>
+      <a href="https://financecore.com.do"><img src="https://img.shields.io/badge/🌐_financecore.com.do-1E3A8A?style=flat-square&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -101,7 +100,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ransli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaiby2017@gmail.com)
 [![Finance Core](https://img.shields.io/badge/Finance_Core-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://financecore.com.do)
 
