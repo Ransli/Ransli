@@ -17,7 +17,7 @@
 💼 Creador de Finance Core — SaaS multi-tenant de préstamos
 📊 Analista de datos: Excel avanzado & Power BI (DAX / Deneb)
 🌱 Expandiéndome hacia Python para análisis de datos
-📍 Santo Domingo / Santo Domingo, República Dominicana 🇩🇴
+📍 Santo Domingo, República Dominicana 🇩🇴
 ```
 
 ---
@@ -53,7 +53,17 @@
 
 ---
 
-## 🏗️ Proyecto Destacado
+## 🏗️ Proyectos Destacados
+
+<div align="center">
+
+<a href="https://github.com/Ransli/mibolsillo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ransli&repo=mibolsillo&theme=tokyonight&title_color=2563EB&icon_color=059669&border_color=1E3A8A&bg_color=0d1117"/>
+</a>
+
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -62,7 +72,8 @@
       <strong>Finance Core</strong> — Plataforma SaaS multi-tenant para gestión de préstamos en la República Dominicana.<br/>
       <sub><code>React</code> · <code>Node.js</code> · <code>MariaDB</code> · <code>Nginx</code> · <code>PM2</code> · <code>VPS</code></sub><br/><br/>
       <a href="https://financecore.com.do"><img src="https://img.shields.io/badge/🌐_financecore.com.do-1E3A8A?style=flat-square"/></a>
-   </td>
+      <a href="https://financecore.cloud"><img src="https://img.shields.io/badge/☁️_financecore.cloud-059669?style=flat-square"/></a>
+    </td>
   </tr>
 </table>
 
@@ -90,6 +101,7 @@
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ransli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaiby2017@gmail.com)
 [![Finance Core](https://img.shields.io/badge/Finance_Core-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://financecore.com.do)
 
