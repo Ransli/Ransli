@@ -17,7 +17,7 @@
 💼 Creador de Finance Core — SaaS multi-tenant de préstamos
 📊 Analista de datos: Excel avanzado & Power BI (DAX / Deneb)
 🌱 Expandiéndome hacia Python para análisis de datos
-📍 Santo Domingo, República Dominicana 🇩🇴
+📍  Santo Domingo, República Dominicana 🇩🇴
 ```
 
 ---
